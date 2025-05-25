@@ -23,6 +23,8 @@ app_license = "mit"
 
 # Includes in <head>
 # ------------------
+app_include_css = "/assets/frappe_openai_integration/css/chatbot.css"
+
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/frappe_openai_integration/css/frappe_openai_integration.css"
@@ -241,4 +243,3 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
