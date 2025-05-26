@@ -19,23 +19,23 @@ A powerful custom Frappe app that integrates OpenAI’s models (like ChatGPT) in
 ## 🖼️ UI Screenshots
 
 1. **Prompt Input Interface**
-![chat_assistant](images/chat_assistant.png)
+![chat_assistant](.github/chat_assistant.png)
    - Input your question to OpenAI
    - Get immediate response via API
    - Save history for reference
 
 2. **Prompt History Listing**
-![prompt_log](images/prompt_log.png)
+![prompt_log](.github/prompt_log.png)
    - View all past queries and responses
    - Filter by user/date/type
 
 3. **OpenAI Settings**
-![settings](images/settings.png)
+![settings](.github/settings.png)
    - Configure API keys
    - Toggle model options (e.g., `gpt-3.5`, `gpt-4`)
 
 4. **Dashboard**
-![dashboard](images/dashboard.png)
+![dashboard](.github/dashboard.png)
    - Shows:
      - OpenAI Settings
      - Total prompts
