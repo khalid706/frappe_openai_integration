@@ -7,8 +7,7 @@
  "field_order": [
   "api_key",
   "model",
-  "column_break_epbc",
-  "audit_log"
+  "column_break_epbc"
  ],
  "fields": [
   {
@@ -25,18 +24,12 @@
   {
    "fieldname": "column_break_epbc",
    "fieldtype": "Column Break"
-  },
-  {
-   "default": "0",
-   "fieldname": "audit_log",
-   "fieldtype": "Check",
-   "label": "Audit Log"
   }
  ],
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2025-05-25 15:32:43.747812",
+ "modified": "2025-05-26 22:45:17.424289",
  "modified_by": "Administrator",
  "module": "Frappe Openai Integration",
  "name": "OpenAI Integration Settings",
